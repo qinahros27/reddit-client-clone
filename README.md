@@ -27,6 +27,7 @@ This project uses React to create reddit client app.
 ```
 ## Getting started
 Setting node version: ```nvm use 16.```
+
 Clone the respository from github: ```git clone```
 
 ![project](image.png)
