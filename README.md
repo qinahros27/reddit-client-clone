@@ -1,5 +1,5 @@
 # Introduction
-This project uses React to create reddit client app.
+This project uses React to create reddit client app. 
 
 ## Table of content
 - Technologies
@@ -26,4 +26,7 @@ This project uses React to create reddit client app.
     └───README.md
 ```
 ## Getting started
+Setting node version: ```nvm use 16.```
 Clone the respository from github: ```git clone```
+
+![project](image.png)

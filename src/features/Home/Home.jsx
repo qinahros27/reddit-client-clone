@@ -18,9 +18,9 @@ const Home = () => {
   const posts = useSelector(selectFilteredPosts);
   const dispatch = useDispatch();
 
-  useEffect(() => {
-    dispatch(fetchPosts(selectedSubreddit));
-  }, [selectedSubreddit]);
+  // useEffect(() => {
+  //   dispatch(fetchPosts(selectedSubreddit));
+  // }, [dispatch, selectedSubreddit]);
 
   const onToggleComments = (index) => {
     const getComments = (permalink) => {
